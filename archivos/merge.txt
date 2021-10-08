@@ -1,3 +1,7 @@
 Hernan Camilo Rivera Arteaga
 26 años
 Espero aprender mucho de la parte conceptual, digrama de clases y también como aplicar muy bien el paradigma de programación orientada a objetos en Python.
+
+La carpeta está subida porque ahora ya tiene un archivo dentro de ella
+
+Es importante tener cuidado con modificar un archivo al mismo tiempo porque puede que haya divergencias en los archivos. Sin embargo, para esto es git.
