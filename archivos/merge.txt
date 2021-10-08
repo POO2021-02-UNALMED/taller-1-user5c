@@ -1,0 +1,3 @@
+Hernan Camilo Rivera Arteaga
+26 años
+Espero aprender mucho de la parte conceptual, digrama de clases y también como aplicar muy bien el paradigma de programación orientada a objetos en Python.
